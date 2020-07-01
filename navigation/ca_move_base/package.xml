@@ -12,6 +12,8 @@
 
   <build_depend>actionlib</build_depend>
   <build_depend>amcl</build_depend>
+  <build_depend>iris_lama</build_depend>
+  <build_depend>iris_lama_ros</build_depend>
   <build_depend>move_base</build_depend>
   <build_depend>move_base_msgs</build_depend>
   <build_depend>octomap_server</build_depend>
@@ -28,12 +30,18 @@
   <exec_depend>actionlib</exec_depend>
   <exec_depend>amcl</exec_depend>
   <exec_depend>carrot_planner</exec_depend>
+  <exec_depend>clear_costmap_recovery</exec_depend>
   <exec_depend>dwa_local_planner</exec_depend>
+  <exec_depend>global_planner</exec_depend>
+  <exec_depend>iris_lama</exec_depend>
+  <exec_depend>iris_lama_ros</exec_depend>
   <exec_depend>map_server</exec_depend>
+  <exec_depend>mbf_costmap_nav</exec_depend>
   <exec_depend>move_base</exec_depend>
   <exec_depend>move_base_msgs</exec_depend>
   <exec_depend>octomap_server</exec_depend>
   <exec_depend>roscpp</exec_depend>
+  <exec_depend>rotate_recovery</exec_depend>
   <exec_depend>teb_local_planner</exec_depend>
   <exec_depend>tf</exec_depend>
 
